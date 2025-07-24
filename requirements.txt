@@ -32,3 +32,4 @@ numexpr
 huggingface_hub
 langserve
 sse_starlette
+langchain_community
